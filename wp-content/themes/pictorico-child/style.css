@@ -1,0 +1,11 @@
+/*
+Theme Name: Pictorico Child
+Theme URI: http://wordpress:8888/
+Description: This is a child theme of Pictorico.
+Author: Cayla Mackey
+Author URI: caylamackey.com
+Template: Pictorico
+Version: 0.1
+*/
+
+@import url("../pictorico/style.css")
